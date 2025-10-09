@@ -24,6 +24,9 @@ This repository is for testing and comparing lightweight image classification mo
 - Framework used for model conversion, quantization, and on-device inference.
 - Enables running both MobileNet V3 and Quantized ResNet efficiently on Android and iOS.
 
+### Dataset
+[Breast Ultrasound Images Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset/data)
+
 ## Goals
 - Compare accuracy, model size, and inference latency.
 - Evaluate quantization impact on model performance.
