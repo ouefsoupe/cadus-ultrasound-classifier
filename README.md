@@ -15,7 +15,7 @@ This repository is for testing and comparing lightweight image classification mo
 ### 2. Quantized ResNet
 - Explanation: [ResNet Deep Dive](https://www.youtube.com/watch?v=Ky3R0gxFUbo)
 - Quantization Tutorial: [Quantizing ResNet](https://www.youtube.com/watch?v=jNZ1rkIfwsM)
-- Size: ~100 MB before quantization, ~10 MB after
+- Size: 90.8 MB before quantization, 22.8 MB after
 - Notes:
   - Standard ResNet architecture fine-tuned and quantized to int8 for mobile deployment.
   - Used to test accuracy vs. performance trade-offs compared to MobileNet V3.
